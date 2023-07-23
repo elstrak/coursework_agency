@@ -2,7 +2,6 @@
 Course work after the 2nd studying year of Software Engineering
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Real+Estate+Agency)](https://git.io/typing-svg)
-
 # My information system can colve following tasks :
 
 1) store, allow viewing, adding and deleting
@@ -31,6 +30,7 @@ Used :
 3) Functionality for outputting data structures (AVL-tree, RB-tree + hash tables).
 
 ![image](https://github.com/elstrak/coursework_agency/assets/89124030/d90ffe4f-33cb-4f8e-b3f5-7f1f966a3c0e)
+
 end. no more maths.
 
 
